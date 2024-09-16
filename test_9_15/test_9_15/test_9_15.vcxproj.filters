@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_9_16.c">
+    <ClCompile Include="tset_9_15.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
